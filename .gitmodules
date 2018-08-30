@@ -1,0 +1,4 @@
+[submodule "m1"]
+	path = m1
+	url = https://github.com/trickpeeraze/m1.git
+	branch = master
